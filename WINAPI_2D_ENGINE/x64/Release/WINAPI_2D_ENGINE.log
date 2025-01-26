@@ -1,0 +1,219 @@
+﻿  BackGround.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\BackGround.cpp(54,22): warning C4244: '초기화 중': 'FLOAT'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\BackGround.cpp(60,42): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bitmap.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Bitmap.cpp(39,17): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Bitmap.cpp(40,18): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Bitmap.cpp(69,83): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Bitmap.cpp(69,76): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Block.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(55,38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(56,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(57,37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(58,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Block.cpp(47,45): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Block.cpp(47,32): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bullet.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Bullet.cpp(34,60): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Bullet.cpp(34,40): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Character.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(55,38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(56,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(57,37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(58,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ObjectManager.h(43,1): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Character.cpp(7,63): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Character.cpp(7,63): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Character.cpp(9,28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Character.cpp(31,63): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Character.cpp(31,63): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Character.cpp(33,28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Character.cpp(73,61): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Character.cpp(73,61): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Character.cpp(75,29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ClearScene.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ClearScene.cpp(14,61): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ClearScene.cpp(15,62): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Component.cpp
+  InputComponent.cpp
+  SpriteAnimation.cpp
+  SpriteRenderer.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Components\SpriteRenderer.cpp(17,31): warning C4244: '*=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Components\SpriteRenderer.cpp(18,31): warning C4244: '*=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Components\SpriteRenderer.cpp(55,64): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Components\SpriteRenderer.cpp(55,57): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Components\SpriteRenderer.cpp(61,71): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Components\SpriteRenderer.cpp(61,64): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Door.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(55,38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(56,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(57,37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(58,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Enemy.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(55,38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(56,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(57,37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(58,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ObjectManager.h(43,1): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EnemyManager.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(55,38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(56,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(57,37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(58,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ObjectManager.h(43,1): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\EnemyManager.h(40,32): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\EnemyManager.cpp(8,18): warning C4101: 'Pos_y' :참조되지 않은 지역 변수입니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\EnemyManager.cpp(8,11): warning C4101: 'Pos_x' :참조되지 않은 지역 변수입니다.
+  InputManager.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\InputManager.cpp(55,23): warning C4244: '인수': 'WPARAM'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\InputManager.cpp(57,51): warning C4244: '인수': 'WPARAM'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\InputManager.cpp(58,45): warning C4244: '인수': 'WPARAM'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\InputManager.cpp(112,46): warning C4838: 'UINT32'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\InputManager.cpp(112,72): warning C4838: 'UINT32'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  Main.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(55,38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(56,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(57,37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(58,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ObjectManager.h(43,1): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\EnemyManager.h(40,32): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Math.cpp
+  Metol.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(55,38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(56,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(57,37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(58,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ObjectManager.h(43,1): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Metol.cpp(172,60): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Metol.cpp(172,40): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Metol.cpp(189,36): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(55,38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(56,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(57,37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(58,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ObjectManager.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(55,38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(56,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(57,37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(58,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ObjectManager.h(43,1): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(55,38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(56,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(57,37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(58,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ObjectManager.h(43,1): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\EnemyManager.h(40,32): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Player.cpp(269,60): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Player.cpp(269,40): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Player.cpp(295,36): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Player.cpp(462,96): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  ResourceManager.cpp
+  SceneManager.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ScroolManager.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Stage1Scene.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(55,38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(56,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(57,37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(58,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ObjectManager.h(43,1): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\EnemyManager.h(40,32): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TimeManager.cpp
+  TitleScene.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\TitleScene.cpp(50,105): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\TitleScene.cpp(50,67): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tower.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ScroolManager.h(32,35): warning C4244: 'return': 'INT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(55,38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(56,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(57,37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Object.h(58,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\ObjectManager.h(43,1): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Tower.cpp(132,64): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Tower.cpp(132,42): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\Tower.cpp(149,36): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UIButton.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UIGameManager.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UIImage.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIImage.cpp(12,21): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIImage.cpp(13,21): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UILabel.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UILabel.cpp(10,82): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UILabel.cpp(17,21): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UILabel.cpp(18,21): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UILabel.cpp(51,76): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UIManager.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UIPanel.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UIScene.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UIStage.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIPanel.h(46,32): warning C4267: 'return': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(5,18): warning C4244: '초기화 중': 'UINT32'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(23,79): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(23,41): warning C4244: '인수': 'FLOAT'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(28,106): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(28,65): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(33,102): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(33,61): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(38,107): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(38,68): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(43,111): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(43,73): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(55,110): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(55,70): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(92,114): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(92,74): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(104,114): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(104,74): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(109,114): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(109,74): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(139,68): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(141,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\UIStage.cpp(143,78): warning C4244: '인수': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WinApiEngine.cpp
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\WinApiEngine.cpp(48,21): warning C4244: '=': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\WINAPI_2D_ENGINE\WinApiEngine.cpp(49,21): warning C4244: '=': 'float'에서 'INT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 1908 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  WINAPI_2D_ENGINE.vcxproj -> C:\Users\01149\Desktop\WINAPI_2D _예제_20230331 (2)\x64\Release\WINAPI_2D_ENGINE.exe
